@@ -1,4 +1,3 @@
-````markdown
 # Soil-Drainage & Crop Recommender System ( **swatML** )
 
 A full-stack geospatial + machine-learning pipeline that **predicts field-level flood or drainage risk** and then **recommends the best-fit crops** and management practices for every parcel on earth.  
@@ -101,5 +100,3 @@ Thanks to **USDA NRCS**, **ESA Copernicus**, **NOAA** and every open-source main
 
 > “If you don’t own the data, you can’t own the farm.”
 
-```
-```
